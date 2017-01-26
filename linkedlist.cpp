@@ -1,6 +1,6 @@
 // linkedlist.cpp : Defines the entry point for the console application.
 //
-//Change made
+
 #include "stdafx.h"
 #include <iostream>
 
